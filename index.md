@@ -8,7 +8,7 @@ highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : default      # 
 revealjs:
   theme: default
-  transition: none
+  transition: linear
   center: "true"
 widgets     : []            # {mathjax, quiz, bootstrap}
 mode        : selfcontained # {standalone, draft}
