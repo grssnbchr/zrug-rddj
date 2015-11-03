@@ -1,5 +1,5 @@
 ---
-title       : Transparenz und Reproduzierbarkeit im #DDJ
+title       : Transparenz und Reproduzierbarkeit im Datenjournalismus
 subtitle    : 
 author      : Timo Grossenbacher
 job         : Datenjournalist @srfdata
