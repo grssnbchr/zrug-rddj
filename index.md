@@ -118,7 +118,7 @@ Das **Problem**: Datenjournalistische Arbeit kann nur selten ausführlich erklä
 
 ### Genug der Theorie!!! 
 
-<aside class="notes">Im folgenden nun zwei Beispiele, wie wir bei SRF Data konkret versuchen, das zu leben, was ich hier predige.</aside>
+<aside class="notes">Im folgenden nun ein Beispiel, wie wir bei SRF Data konkret versuchen, das zu leben, was ich hier predige.</aside>
 
 ![Gute Nacht](assets/img/sleeping.jpg)
 
