@@ -17,7 +17,7 @@ knit        : slidify::knit2slides
 
 
 ### Journalismustag '15
-## Transparenz und Reproduzierbarkeit im #DDJ
+<h2>Transparenz und <br/>Reproduzierbarkeit im #DDJ</h2>
 
 ### Warum und wie? 
 
