@@ -141,6 +141,7 @@ Das **Problem**: Datenjournalistische Arbeit kann nur selten ausführlich erklä
 ### Transparenz & Open Data
 
 [SRF Data auf GitHub](http://srfdata.github.io)
+![srfdata.github.io](assets/img/srfdatagithub.png)
 
 --- 
 
@@ -169,7 +170,8 @@ Das **Problem**: Datenjournalistische Arbeit kann nur selten ausführlich erklä
  
 * Beschreibung der Daten und Methoden mit **Markdown**
 
-* Publikation der Daten und Methoden über **GitHub / GitHub Pages** 
+* Publikation der Daten und Methoden auf **[GitHub / GitHubPages](http://srfdata.github.io)**
+
 
 ---
 
