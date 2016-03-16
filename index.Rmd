@@ -84,6 +84,21 @@ Some examples
 
 --- 
 
+### Some examples
+
+.fragment  More: research & ideas, less: service center
+
+.fragment  pitch ideas, receive / collect / scrape / enforce (BGÖ) *data*
+
+.fragment  preprocess > visualize > analyze > find the story
+
+.fragment  publication on [srf.ch](http://srf.ch/data) -> overview, interactivity
+
+.fragment  publication in radio and/or TV -> anecdotes, details, aspects
+
+<img src = "assets/img/klapproth.jpg" width = "600px"/>
+
+--- 
 ### Warum Transparenz?
 
 <aside class="notes">Datenjournalistische Arbeit kann nur selten ausführlich erklärt werden - schon gar nicht in einem (Zeitungs-)Artikel. Während man bei klassischen Recherchen schnell mal erklären kann, dass man z.B. eine wichtige Info in einer Gerichtsakte gefunden hat, ist es beim DDJ schwieriger.
