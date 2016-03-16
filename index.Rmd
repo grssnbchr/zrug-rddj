@@ -16,7 +16,7 @@ knit        : slidify::knit2slides
 ---
 
 
-### Zurich R User Group
+### Zurich R User Group, March 2016
 ## Data journalism with R
 
 ### Experiences at SRF Data
@@ -162,7 +162,7 @@ direct_matches %<>% mutate_(.dots =
 
 ---
 
-## The future of data journalism?
+## The future of (data) journalism?
 
 ["Real" interactivity](http://slides.com/drivenbydata/nicar16#/17)
 
@@ -171,6 +171,8 @@ direct_matches %<>% mutate_(.dots =
 [Snackable graphics](http://im.ft-static.com/content/images/d823a614-9e82-11e5-b45d-4812f209f861.img)
 
 [Bots and IoT](https://docs.google.com/presentation/d/1X0jrBMHEonEbrj5YzZ0SrDAEgh6KrQzMcF6bj2p8kDY/edit?pref=2&pli=1#slide=id.g3325971d57b349bb_1)
+
+Algorithmic Accountibility
 
 ---
 
