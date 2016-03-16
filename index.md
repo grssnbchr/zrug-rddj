@@ -86,7 +86,7 @@ Some examples
 
 ### Some examples of our work
 
-.fragment  [Dual-use goods](www.srf.ch/news/schweiz/2015-mehr-heikle-exporte-in-den-nahen-osten) & [conventional arms exports](http://www.srf.ch/news/schweiz/schweizer-ruestungsexporte-sind-die-fetten-jahre-vorbei)
+.fragment  [Dual-use goods](http://www.srf.ch/news/schweiz/2015-mehr-heikle-exporte-in-den-nahen-osten) & [conventional arms exports](http://www.srf.ch/news/schweiz/schweizer-ruestungsexporte-sind-die-fetten-jahre-vorbei)
 
 .fragment  [The Zurich cantonal police orders a trojan horse](http://www.srf.ch/news/regional/zuerich-schaffhausen/kantonspolizei-zuerich-kauft-umstrittene-schnueffelsoftware)
 
@@ -174,6 +174,18 @@ direct_matches %<>% mutate_(.dots =
 [grssnbchr/rddj-reproducibility-workflow](https://github.com/grssnbchr/rddj-reproducibility-workflow)
 
 [Brian Keegan calls out 538 for openness in #ddj](http://www.brianckeegan.com/2014/04/the-need-for-openness-in-data-journalism/)
+
+---
+
+## The future of data journalism?
+
+[Bots and NLP](https://t.co/BLWqpbEOlg)
+
+["Real" interactivity](http://slides.com/drivenbydata/nicar16#/17)
+
+[Sonification](https://soundcloud.com/thisisreveal/oklahomas-man-made-earthquakes)
+
+[Snackable graphics](http://im.ft-static.com/content/images/d823a614-9e82-11e5-b45d-4812f209f861.img)
 
 ---
 
