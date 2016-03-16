@@ -110,19 +110,6 @@ Some examples
 
 ---
 
-### How do we use R? 
-
-.fragment R is a Swiss Army Knife > it reads all kinds of weird s**t
-
-.fragment R allows for automation >  [example](https://twitter.com/search?q=%23wahlch15%20AND%20%40srfdata&src=typd)
-
-.fragment R empowers reproducibility and, ultimately, transparency > [we publish most of our analyses on GitHub](http://srfdata.github.io/)
-
-.fragment [I wrote a blog post about all of this](https://timogrossenbacher.ch/2015/12/why-data-journalists-should-start-using-r-in-2016/)
-
-
---- 
-
 ### How *exactly* do we use R? 
 
 `base`, `dplyr`, `tidyr`, `maggritr`, `ggplot2`, `extrafont`, `animation`, `readxl`, `xml2`, `jsonlite`, `RSQLite`, `googlesheets`, `stringr`, `rpremraj/mailR`, `R2HTML`, `knitr`, `slidify`, `readr`, `caret`,  `sp`, `maptools`, etc. 
@@ -179,13 +166,13 @@ direct_matches %<>% mutate_(.dots =
 
 ## The future of data journalism?
 
-[Bots and IoT](https://docs.google.com/presentation/d/1X0jrBMHEonEbrj5YzZ0SrDAEgh6KrQzMcF6bj2p8kDY/edit?pref=2&pli=1#slide=id.g3325971d57b349bb_1)
-
 ["Real" interactivity](http://slides.com/drivenbydata/nicar16#/17)
 
 [Sonification](https://soundcloud.com/thisisreveal/oklahomas-man-made-earthquakes)
 
 [Snackable graphics](http://im.ft-static.com/content/images/d823a614-9e82-11e5-b45d-4812f209f861.img)
+
+[Bots and IoT](https://docs.google.com/presentation/d/1X0jrBMHEonEbrj5YzZ0SrDAEgh6KrQzMcF6bj2p8kDY/edit?pref=2&pli=1#slide=id.g3325971d57b349bb_1)
 
 ---
 
