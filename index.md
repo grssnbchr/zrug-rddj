@@ -17,7 +17,7 @@ knit        : slidify::knit2slides
 
 
 ### Zurich R User Group
-<h2>Transparenz und <br/>Reproduzierbarkeit im #DDJ</h2>
+## Datenjournalismus mit R
 
 ### Erfahrungen bei SRF Data
 
