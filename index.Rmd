@@ -1,6 +1,6 @@
 ---
-title       : Transparenz und Reproduzierbarkeit im Datenjournalismus
-subtitle    : 
+title       : Datenjournalismus mit R
+subtitle    : SRF Data
 author      : Timo Grossenbacher
 job         : Datenjournalist @srfdata
 framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
@@ -16,10 +16,10 @@ knit        : slidify::knit2slides
 ---
 
 
-### Journalismustag '15
+### Zurich R User Group
 <h2>Transparenz und <br/>Reproduzierbarkeit im #DDJ</h2>
 
-### Warum und wie? 
+### Erfahrungen bei SRF Data
 
 Timo Grossenbacher, SRF Data
 
@@ -27,7 +27,7 @@ Timo Grossenbacher, SRF Data
 
 [@srfdata](http://twitter.com/srfdata)
 
-Präsentation vefügbar unter [grssnbchr.github.io/jt15-rddj](http://grssnbchr.github.io/jt15-rddj)
+Präsentation vefügbar unter [grssnbchr.github.io/zrug-rddj](http://grssnbchr.github.io/zrug-rddj)
 
 
 ---
