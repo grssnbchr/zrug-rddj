@@ -21,7 +21,7 @@ knit        : slidify::knit2slides
 
 ### Experiences at SRF Data
 
-Timo Grossenbacher, SRF Data
+Timo Grossenbacher
 
 [@grssnbchr](http://twitter.com/grssnbchr)
 
@@ -123,6 +123,11 @@ Some examples
 
 --- 
 
+### How *exactly* do we use R? 
+
+`base`, `dplyr`, `tidyr`, `maggritr`, `ggplot2`, `extrafont`, `animation`, `readxl`, `xml2`, `jsonlite`, `RSQLite`, `googlesheets`, `stringr`, `rpremraj/mailR`, `R2HTML`, `knitr`, `slidify`, `readr`, `caret`,  `sp`, `maptools`, etc. 
+
+--- 
 ### Things I still don't like about R
 
 
