@@ -2,7 +2,7 @@
 title       : Datenjournalismus mit R
 subtitle    : SRF Data
 author      : Timo Grossenbacher
-job         : Datenjournalist @srfdata
+job         : Data journalist @srfdata
 framework   : revealjs        # {io2012, html5slides, shower, dzslides, ...}
 highlighter : highlight.js  # {highlight.js, prettify, highlight}
 hitheme     : default      # 
@@ -17,9 +17,9 @@ knit        : slidify::knit2slides
 
 
 ### Zurich R User Group
-## Datenjournalismus mit R
+## Data journalism with R
 
-### Erfahrungen bei SRF Data
+### Experiences at SRF Data
 
 Timo Grossenbacher, SRF Data
 
@@ -27,22 +27,34 @@ Timo Grossenbacher, SRF Data
 
 [@srfdata](http://twitter.com/srfdata)
 
-Präsentation vefügbar unter [grssnbchr.github.io/zrug-rddj](http://grssnbchr.github.io/zrug-rddj)
+Presentation available under [grssnbchr.github.io/zrug-rddj](http://grssnbchr.github.io/zrug-rddj)
 
 
 ---
 
-### Über mich
+### About me
 
-Ursprünglich: Studium Geographie & Informatik 
+Formerly: MSc in Geography & Computer Science UZH
 
-März - Oktober 2014: Tages-Anzeiger
+Mar - Oct 2014: Tages-Anzeiger
 
-Seit November 2014 beim Team von SRF Data als **Programmierer** und **Datenjournalist** 
+Since Nov 2014 I work in the team of SRF Data as **coder** and **journalist** (["journocoder"](https://www.journalism.co.uk/news/recalculating-the-newsroom-the-rise-of-the-journo-coder-/s2/a555646/))
 
 ![SRF Data](assets/img/srf_data_logo.jpg)
 
 [@grssnbchr](http://twitter.com/grssnbchr)
+
+---
+
+### What the heck is data journalism? 
+
+Some examples
+
+* [NYT: The Best and Worst Places to Grow Up](http://www.nytimes.com/interactive/2015/05/03/upshot/the-best-and-worst-places-to-grow-up-how-your-area-compares.html?abt=0002&abg=0)
+* [ProPublica: Dollars for Docs](https://projects.propublica.org/docdollars/)
+* [CORRECT!V: Euros für Ärzte](https://correctiv.org/recherchen/euros-fuer-aerzte/datenbank/)
+
+<img src = "assets/img/nytimes_places.png" width = "700px"/>
 
 ---
 
@@ -54,16 +66,21 @@ Seit November 2014 beim Team von SRF Data als **Programmierer** und **Datenjourn
 
 [Portfolio](http://srf.ch/data)
 
---- #slide-3-tweet
+--- 
 
-### Warum Transparenz?
+### SRF Data
 
-<aside class="notes">Vor ein paar Wochen hat sich eine Schweizer Politikerin bei uns über ein neues Tool beschwert. In diesem Fall war der Vorwurf der Pseudoobjektivität völlig unbegründet - einen wunden Punkt des Datenjournalismus trifft die Dame mit dem Vorwurf jedoch trotzdem.</aside>
+.fragment  More: research & ideas, less: service center
 
-Deswegen: 
+.fragment  pitch ideas, receive / collect / scrape / enforce (BGÖ) *data*
 
-<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" data-partner="tweetdeck"><p lang="de" dir="ltr"><a href="https://twitter.com/brenntr">@brenntr</a> <a href="https://twitter.com/fljan">@fljan</a> <a href="https://twitter.com/srfdata">@srfdata</a> <a href="https://twitter.com/srfnews">@srfnews</a> sag ich doch, das mit dem Datenjournalismus ist eine heikle Sache und mündet zu oft in Pseudoobjektivität</p>&mdash; Jacqueline Badran (@JayBadran) <a href="https://twitter.com/JayBadran/status/613021865007820800">June 22, 2015</a></blockquote>
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+.fragment  preprocess > visualize > analyze > find the story
+
+.fragment  publication on [srf.ch](http://srf.ch/data) --> overview, interactivity
+
+.fragment  publication in radio and/or TV -> anecdotes, details, aspects
+
+<img src = "assets/img/klapproth.jpg" width = "600px"/>
 
 --- 
 
@@ -188,13 +205,13 @@ Gute Lektüre: [Brian Keegan calls out 538 for openness in #ddj](http://www.bria
 ---
 
 # Danke
-
+ ,
 ## Fragen? 
 
 [@grssnbchr](http://twitter.com/grssnbchr)
 
 [@srfdata](http://twitter.com/srfdata)
 
-Diese Präsentation ist verfügbar (und reproduzierbar) unter [github.com/grssnbchr/jt15-rddj](https://github.com/grssnbchr/jt15-rddj/blob/gh-pages/index.md)
+Diese Präsentation ist verfügbar (und reproduzierbar) unter [github.com/grssnbchr/zrug-rddj](https://github.com/grssnbchr/zrug-rddj/blob/gh-pages/index.md)
 
 <small>Gebaut mit [slidify](https://github.com/ramnathv/slidify) und [revealjs](https://github.com/hakimel/reveal.js/)</small>
